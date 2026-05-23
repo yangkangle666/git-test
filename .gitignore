@@ -1,0 +1,4 @@
+.env
+node_modules/
+/表示一个目录
+gitignore这个文件里的内容不会被git管理
